@@ -1,0 +1,10 @@
+{
+  "reward": {
+    "direction": "higher_better",
+    "mean": 29.3533666667,
+    "runs": 3,
+    "sample_std": 0.750880591927
+  },
+  "split": "validation",
+  "version": 1
+}
